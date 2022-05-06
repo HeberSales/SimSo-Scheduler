@@ -10,6 +10,6 @@ Escalonador de Tarefas em tempo real.
 4º - Baixar itens que estão no repositório.
 5º - shift+click direito dentro da pasta "simso-masterdif" e abrir o terminal shell.
 6º - No terminal shell "pip install PyQt4-4.11.4-cp37-cp37m-win_amd64.whl"
-7º - Abrir o SimSo 
+7º - Abrir o SimSo.
 
 Obs: Caso não vá, repita a 3ª etapa.
